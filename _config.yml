@@ -1,4 +1,2 @@
-theme: jekyll-theme-minimal
-title: "Modular Decomposition"
-description: "test"
-logo: https://raw.githubusercontent.com/LijunChang/lijunchang.github.io/master/ljchang.jpg
+remote_theme: pages-themes/cayman@v0.2.0
+show_downloads: false
