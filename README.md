@@ -4,5 +4,7 @@ Linear time implementation of the algorithm proposed in the paper "Simpler Linea
 
 [MDTree](MDTree) is the executable that is compiled on Ubuntu 18.04.
 
-## Running Format 
-./MDTree [1. graph_file] [2. output or analyze, optional]
+## Running Format
+```sh
+$ ./MDTree [1. graph_file] [2. output or analyze, optional]
+```
